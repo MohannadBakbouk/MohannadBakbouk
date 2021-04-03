@@ -6,9 +6,9 @@
 
 * 📱 iOS Developer / Web Developer
 
-* 🌱 UI / UX Enthusiast
+* ♥️  Learning new technologies
 
-* ♥️ Exploring new technologies
+* 🌱 interested in UI / UX 
 
 * ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@mohannadbakbouk/)
 
