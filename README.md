@@ -4,11 +4,16 @@
 
 ## About Me 
 
-* 📱 iOS Developer / Web Developer
+* 📲 iOS Developer / Web Developer
 
-* ♥️  Learning new technologies
+* ❤️  Learning new technologies
 
-* 🌱 interested in UI / UX 
+* 🌱 I’m currently learning Flutte
+
+* ⚡ interested in UI / UX 
 
 * ✍🏻 I write blogs on iOS development in [Medium](https://medium.com/@mohannadbakbouk/)
+
+* How to reach me:   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='18'>](https://www.Linkedin.com/in/MohannadBakbouk)
+  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='G-mail' height='18' color = 'green'>](mailto:MohannadBakbouk@gmail.com)
 
