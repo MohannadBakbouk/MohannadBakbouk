@@ -8,7 +8,7 @@
 
 * ❤️  Learning new technologies
 
-* 🌱 I’m currently learning Flutte
+* 🌱 I’m currently learning SwiftUI
 
 * ⚡ interested in UI / UX 
 
